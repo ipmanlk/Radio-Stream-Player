@@ -2,7 +2,7 @@
 *Play your favourite radio streams*
 
 ##Files
-- radio.html - Contains the main index design created using a HTML Table.
+- radio.html - Contains the main index with a sample.
 - stations.js - Contains online streams for radio stations.
 
 ##License
